@@ -21,4 +21,5 @@ public class Main {
         System.out.println("ÇİFTLER: " + Process.evens.size());
 
     }
+    
 }
